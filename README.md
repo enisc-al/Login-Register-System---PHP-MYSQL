@@ -1,1 +1,1 @@
-# Login-Register-System---PHP-MYSQL
+# Login Register System PHP-MYSQL
